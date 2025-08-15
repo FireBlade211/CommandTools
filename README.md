@@ -1,7 +1,8 @@
 # CommandTools
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Tag](https://img.shields.io/github/v/tag/FireBlade211/CommandTools?label=Version)](https://github.com/FireBlade211/CommandTools/releases) [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/FireBlade211/CommandTools/latest/total?label=Downloads%20(latest))](https://github.com/FireBlade211/CommandTools/releases) [![Static Badge](https://img.shields.io/badge/Only%20on-Windows-blue)]() [![Static Badge](https://img.shields.io/badge/Made%20with-.NET-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Tag](https://img.shields.io/github/v/tag/FireBlade211/CommandTools?label=Version)](https://github.com/FireBlade211/CommandTools/releases) [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/FireBlade211/CommandTools/latest/total?label=Downloads%20(latest))](https://github.com/FireBlade211/CommandTools/releases)<br>
+[![Static Badge](https://img.shields.io/badge/Only%20on-Windows-blue)](https://developer.microsoft.com/en-us/windows/) [![Static Badge](https://img.shields.io/badge/Made%20with-.NET-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) [![Static Badge](https://img.shields.io/badge/Written%20in-C%23-brightgreen)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
-<br>A suite of command-line (CLI) utilities for Windows.
+A suite of command-line (CLI) utilities for Windows.
 
 # Table of Contents
 - [(Top)](README.md#commandtools)
