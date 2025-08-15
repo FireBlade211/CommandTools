@@ -1,0 +1,11 @@
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\bin\Debug\net8.0\CommandToolsUtilityLibrary.deps.json
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\bin\Debug\net8.0\CommandToolsUtilityLibrary.dll
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\bin\Debug\net8.0\CommandToolsUtilityLibrary.pdb
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.AssemblyInfoInputs.cache
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.AssemblyInfo.cs
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.dll
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\refint\CommandToolsUtilityLibrary.dll
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\CommandToolsUtilityLibrary.pdb
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\CommandToolsUtilityLibrary\obj\Debug\net8.0\ref\CommandToolsUtilityLibrary.dll

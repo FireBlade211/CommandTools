@@ -1,0 +1,448 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "OSVersionExt/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net462/OSVersionExt.dll": {}
+        },
+        "runtime": {
+          "lib/net462/OSVersionExt.dll": {}
+        }
+      },
+      "System.CodeDom/9.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.CodeDom.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.CodeDom.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "System.CommandLine/2.0.0-beta6.25358.103": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "resource": {
+          "lib/net8.0/cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net8.0/de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net8.0/pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "System.Management/9.0.8": {
+        "type": "package",
+        "dependencies": {
+          "System.CodeDom": "9.0.8"
+        },
+        "compile": {
+          "lib/net8.0/System.Management.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.Management.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Management.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      }
+    },
+    "net8.0-windows7.0/win-x64": {
+      "OSVersionExt/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net462/OSVersionExt.dll": {}
+        },
+        "runtime": {
+          "lib/net462/OSVersionExt.dll": {}
+        }
+      },
+      "System.CodeDom/9.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.CodeDom.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.CodeDom.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      },
+      "System.CommandLine/2.0.0-beta6.25358.103": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/System.CommandLine.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "resource": {
+          "lib/net8.0/cs/System.CommandLine.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/net8.0/de/System.CommandLine.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net8.0/es/System.CommandLine.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net8.0/fr/System.CommandLine.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net8.0/it/System.CommandLine.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net8.0/ja/System.CommandLine.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net8.0/ko/System.CommandLine.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net8.0/pl/System.CommandLine.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/net8.0/pt-BR/System.CommandLine.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net8.0/ru/System.CommandLine.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net8.0/tr/System.CommandLine.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net8.0/zh-Hans/System.CommandLine.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/net8.0/zh-Hant/System.CommandLine.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "System.Management/9.0.8": {
+        "type": "package",
+        "dependencies": {
+          "System.CodeDom": "9.0.8"
+        },
+        "compile": {
+          "lib/net8.0/System.Management.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "runtimes/win/lib/net8.0/System.Management.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net8.0/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSVersionExt/3.0.0": {
+      "sha512": "G+3FGoEFhjSMx24UInvqRVb7dQ7K0coC8E+EiZWhnQGnDe8IJa14AZ0IDqz5YkwUFHOAcVUnoMWDqLH2RPR0wA==",
+      "type": "package",
+      "path": "osversionext/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net462/OSVersionExt.dll",
+        "osversionext.3.0.0.nupkg.sha512",
+        "osversionext.nuspec"
+      ]
+    },
+    "System.CodeDom/9.0.8": {
+      "sha512": "kxg1TE/BMUAaMve/lPH9Bds+CFF4JPrN9WkQqHejc7UP6PO4KDAjZNF0uhvpZmoLR+EvHdRt232J++ZDI7aGqA==",
+      "type": "package",
+      "path": "system.codedom/9.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/System.CodeDom.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.CodeDom.targets",
+        "lib/net462/System.CodeDom.dll",
+        "lib/net462/System.CodeDom.xml",
+        "lib/net8.0/System.CodeDom.dll",
+        "lib/net8.0/System.CodeDom.xml",
+        "lib/net9.0/System.CodeDom.dll",
+        "lib/net9.0/System.CodeDom.xml",
+        "lib/netstandard2.0/System.CodeDom.dll",
+        "lib/netstandard2.0/System.CodeDom.xml",
+        "system.codedom.9.0.8.nupkg.sha512",
+        "system.codedom.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.CommandLine/2.0.0-beta6.25358.103": {
+      "sha512": "YE8bPzXelsU4Fm4mHIFKwPHYJ1RT0hr1b5+tiyjFk4YYpA+WKzdYxrvdJVJIoC+2vbtffajA928Qe7xUj0WR4g==",
+      "type": "package",
+      "path": "system.commandline/2.0.0-beta6.25358.103",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net8.0/System.CommandLine.dll",
+        "lib/net8.0/System.CommandLine.pdb",
+        "lib/net8.0/System.CommandLine.xml",
+        "lib/net8.0/cs/System.CommandLine.resources.dll",
+        "lib/net8.0/de/System.CommandLine.resources.dll",
+        "lib/net8.0/es/System.CommandLine.resources.dll",
+        "lib/net8.0/fr/System.CommandLine.resources.dll",
+        "lib/net8.0/it/System.CommandLine.resources.dll",
+        "lib/net8.0/ja/System.CommandLine.resources.dll",
+        "lib/net8.0/ko/System.CommandLine.resources.dll",
+        "lib/net8.0/pl/System.CommandLine.resources.dll",
+        "lib/net8.0/pt-BR/System.CommandLine.resources.dll",
+        "lib/net8.0/ru/System.CommandLine.resources.dll",
+        "lib/net8.0/tr/System.CommandLine.resources.dll",
+        "lib/net8.0/zh-Hans/System.CommandLine.resources.dll",
+        "lib/net8.0/zh-Hant/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/System.CommandLine.dll",
+        "lib/netstandard2.0/System.CommandLine.pdb",
+        "lib/netstandard2.0/System.CommandLine.xml",
+        "lib/netstandard2.0/cs/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/de/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/es/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/fr/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/it/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ja/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ko/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/pl/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/pt-BR/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/ru/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/tr/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/zh-Hans/System.CommandLine.resources.dll",
+        "lib/netstandard2.0/zh-Hant/System.CommandLine.resources.dll",
+        "system.commandline.2.0.0-beta6.25358.103.nupkg.sha512",
+        "system.commandline.nuspec"
+      ]
+    },
+    "System.Management/9.0.8": {
+      "sha512": "D7icHff0OpEEIOLsTgnPL+Ff1VmJ3tzA8y20LNKgv4hx1MFMA3XGAVlWMCkLQfBkyvEwib6rMG6nP27lf98KRA==",
+      "type": "package",
+      "path": "system.management/9.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "PACKAGE.md",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net8.0/_._",
+        "buildTransitive/netcoreapp2.0/System.Management.targets",
+        "lib/net462/_._",
+        "lib/net8.0/System.Management.dll",
+        "lib/net8.0/System.Management.xml",
+        "lib/net9.0/System.Management.dll",
+        "lib/net9.0/System.Management.xml",
+        "lib/netstandard2.0/System.Management.dll",
+        "lib/netstandard2.0/System.Management.xml",
+        "runtimes/win/lib/net8.0/System.Management.dll",
+        "runtimes/win/lib/net8.0/System.Management.xml",
+        "runtimes/win/lib/net9.0/System.Management.dll",
+        "runtimes/win/lib/net9.0/System.Management.xml",
+        "system.management.9.0.8.nupkg.sha512",
+        "system.management.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "OSVersionExt >= 3.0.0",
+      "System.CommandLine >= 2.0.0-beta6.25358.103",
+      "System.Management >= 9.0.8"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Piotr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\sysinfo.csproj",
+      "projectName": "sysinfo",
+      "projectPath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\sysinfo.csproj",
+      "packagesPath": "C:\\Users\\Piotr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Piotr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dotnet/CommunityToolkit/_packaging/CommunityToolkit-Labs/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "OSVersionExt": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          },
+          "System.CommandLine": {
+            "target": "Package",
+            "version": "[2.0.0-beta6.25358.103, )"
+          },
+          "System.Management": {
+            "target": "Package",
+            "version": "[9.0.8, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[8.0.18, 8.0.18]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[8.0.18, 8.0.18]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OSVersionExt 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "OSVersionExt",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

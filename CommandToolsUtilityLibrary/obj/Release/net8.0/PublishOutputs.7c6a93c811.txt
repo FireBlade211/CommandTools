@@ -1,0 +1,3 @@
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\Publish\CommandToolsUtilityLibrary\CommandToolsUtilityLibrary.dll
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\Publish\CommandToolsUtilityLibrary\CommandToolsUtilityLibrary.deps.json
+C:\Users\Piotr\Projects\Visual Studio Repos\CommandTools\Publish\CommandToolsUtilityLibrary\CommandToolsUtilityLibrary.pdb

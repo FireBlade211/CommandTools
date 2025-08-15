@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDzqWdGTm/w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\sysinfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotr\\.nuget\\packages\\osversionext\\3.0.0\\osversionext.3.0.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.codedom\\9.0.8\\system.codedom.9.0.8.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.commandline\\2.0.0-beta6.25358.103\\system.commandline.2.0.0-beta6.25358.103.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.management\\9.0.8\\system.management.9.0.8.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.18\\microsoft.netcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "Package 'OSVersionExt 3.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\sysinfo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\sysinfo\\sysinfo.csproj",
+      "libraryId": "OSVersionExt",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

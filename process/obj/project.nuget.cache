@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "OuZgMZ4fEzs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\CommandTools\\process\\process.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Piotr\\.nuget\\packages\\spectre.console\\0.50.0\\spectre.console.0.50.0.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.codedom\\9.0.8\\system.codedom.9.0.8.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.commandline\\2.0.0-beta6.25358.103\\system.commandline.2.0.0-beta6.25358.103.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.management\\9.0.8\\system.management.9.0.8.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.18\\microsoft.netcore.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.18\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.18.nupkg.sha512",
+    "C:\\Users\\Piotr\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.18\\microsoft.aspnetcore.app.runtime.win-x64.8.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

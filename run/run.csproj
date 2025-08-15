@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Version>1.0</Version>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="PeNet" Version="5.1.0" />
+    <PackageReference Include="System.CommandLine" Version="2.0.0-beta6.25358.103" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CommandToolsUtilityLibrary\CommandToolsUtilityLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="WinInteropUtils">
+      <HintPath>..\..\WinInteropUtils\bin\Debug\net8.0-windows\WinInteropUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
