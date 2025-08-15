@@ -1,5 +1,5 @@
 @echo off
-REM Copies all the programs into one folder along with all their dependencies
+REM Copies all the programs into one folder along with all their dependencies (old)
 
 SET "CommandToolsAppDir=.\AllApps"
 
