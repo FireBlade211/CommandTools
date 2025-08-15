@@ -1,5 +1,6 @@
 # CommandTools
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Tag](https://img.shields.io/github/v/tag/FireBlade211/CommandTools?label=Version)](https://github.com/FireBlade211/CommandTools/releases) [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/FireBlade211/CommandTools/latest/total?label=Downloads%20(latest))](https://github.com/FireBlade211/CommandTools/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Tag](https://img.shields.io/github/v/tag/FireBlade211/CommandTools?label=Version)](https://github.com/FireBlade211/CommandTools/releases) [![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/FireBlade211/CommandTools/latest/total?label=Downloads%20(latest))](https://github.com/FireBlade211/CommandTools/releases) [![Static Badge](https://img.shields.io/badge/Only%20on-Windows-blue)]() [![Static Badge](https://img.shields.io/badge/Made%20with-.NET-purple)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
+
 <br>A suite of command-line (CLI) utilities for Windows.
 
 # Table of Contents
