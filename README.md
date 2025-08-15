@@ -1,5 +1,5 @@
 # CommandTools
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Tag](https://img.shields.io/github/v/tag/FireBlade211/CommandTools?label=Version)](https://github.com/FireBlade211/CommandTools/releases)
 <br>A suite of command-line (CLI) utilities for Windows.
 
 # Table of Contents
