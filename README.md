@@ -15,7 +15,7 @@ Go to the [Releases](https://github.com/FireBlade211/CommandTools/releases) page
 
 Example usage:<br>
 ```
-run C:\Windows\System32\notepad.exe -at "Notepad with Custom Title!!!11!!!"
+run C:\Windows\System32\notepad.exe -t "Notepad with Custom Title!!!11!!!"
 process list SELECT Name,PID
 ```
 
