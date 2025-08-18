@@ -1,0 +1,53 @@
+name: Bug Report
+description: File a bug
+title: "[BUG]"
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: "## Bug Report"
+  - type: markdown
+    attributes:
+      value: |
+        File a bug report by filling out this form!
+  - type: input
+    id: "winver"
+    attributes:
+      label: "Windows version"
+      description: "What **Windows version** are you running?"
+      placeholder: "e.g, Windows 11"
+    validations:
+      required: true 
+  - type: input
+    id: "appver"
+    attributes:
+      label: "App version"
+      description: "What version of **CommandTools** are you running?"
+      placeholder: "e.g, v1.0"
+    validations:
+      required: true 
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction steps
+      description: "How do you trigger this bug? Please walk us through it step by step."
+      placeholder: |
+        1. Go to ...
+        2. Scroll to ...
+        3. Click on ...
+        ...
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: Frequency
+      description: How often does this bug occur?
+      options:
+        - Very rarely
+        - Rarely
+        - Occasionally
+        - Often
+        - Very often
+    validations:
+      required: true
