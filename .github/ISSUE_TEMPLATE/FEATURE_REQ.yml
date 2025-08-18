@@ -14,7 +14,7 @@ body:
     attributes:
       label: Solution
       description: "Describe the solution you'd like and the feature to add."
-      placeholder: "It would be great if the app could [...]"
+      placeholder: "It would be great if CommandTools had an app for [...]"
     validations:
       required: true
   - type: textarea
